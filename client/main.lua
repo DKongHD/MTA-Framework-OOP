@@ -11,11 +11,13 @@ function CFramework:create()
     self.label = CLabel
     self.window = CWindow
 
-
+	--load the main framework--
+	--load the classes--
     return self
 end
 
-
+--just for testing the framework--
+--just examples of how to use the framework--
 local framework = CFramework:create()
 
 local window = framework.window:create(200, 200, 250, 500, "a small window")
