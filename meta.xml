@@ -1,0 +1,13 @@
+<meta>
+	<script type="client" src="client/utils.lua" />	
+	
+	<script type="client" src="client/classes/button.lua" />
+	<script type="client" src="client/classes/checkbox.lua" />	
+	<script type="client" src="client/classes/edit.lua" />	
+	<script type="client" src="client/classes/label.lua" />
+	<script type="client" src="client/classes/list.lua" />
+	<script type="client" src="client/classes/window.lua" />
+	
+	<script type="client" src="client/main.lua" />
+	
+</meta>
